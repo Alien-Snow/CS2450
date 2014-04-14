@@ -1,0 +1,34 @@
+Killing Jesus,5,5
+Magic of Thieves,8,8
+Child of Ghosts,5,5
+The Fault in Our Stars,10,10
+Divergent,10,10
+The Book Thief,4,4
+The Goldfinch,7,7
+Looking for Alaska,9,9
+The Very Hungry Caterpillar,5,5
+Play Golf the Right Way,7,7
+The Pigeon Needs a Bath!,9,9
+The Maze Runner,5,5
+How to Win Friends and Influence People,4,4
+Paper Towns,John Green,8,8
+Love You Forever,6,6
+Strength Finder 2.0,5,5
+Goodnight Moon,7,7
+Laugh-Out-Loud Jokes for Kids,5,5
+Panic,5,5
+Dangerous Creatures,2,2
+The Knife of Never Letting Go,4,4
+Matched,6,6
+Crossed,3,3
+Reached,5,5
+Daughter of Smoke and Bone,4,4
+Legend,6,6
+Girl of Fire and Thorns,8,8
+Eleanor and Park,2,2
+Fangirl,6,6
+Dorothy Must Die,9,9
+The 5th Wave,7,7
+The Testing,5,5
+The Impossible Knife of Memory,2,2
+The Beginning of Everything,1,1
